@@ -1,0 +1,10 @@
+body {
+    background-color: grey;
+}
+p {
+    font-family: sans-serif;
+    cursor: pointer;
+}
+p:hover {
+    color: brown;
+}
